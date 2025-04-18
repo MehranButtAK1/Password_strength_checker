@@ -40,3 +40,14 @@ input[type="password"] {
   margin-top: 15px;
   font-weight: bold;
 }
+label[for="showPassword"] {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#showPassword {
+  margin-right: 5px;
+}
